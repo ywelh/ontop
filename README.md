@@ -337,5 +337,5 @@ UICorner_10.CornerRadius = UDim.new(0, 7)
 UICorner_10.Parent = ywelhopen
 
    local SayMessageRequest = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
-SayMessageRequest:FireServer("Mady by NO_R7HMA",
+SayMessageRequest:FireServer(" by NO_R7HMA",
 "All") 
